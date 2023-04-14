@@ -11,3 +11,4 @@ soma_quadrados = sum([num**2 for num in vetor_A])
 # Impressão do resultado
 print("Vetor A: ", vetor_A)
 print("Soma dos quadrados dos elementos do vetor A: ", soma_quadrados)
+
